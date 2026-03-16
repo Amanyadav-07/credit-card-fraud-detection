@@ -25,7 +25,7 @@ This project builds a production-ready ML pipeline that:
 
 ## 🖥️ Dashboard Preview
 
-![Dashboard Preview](fraud_dashboard_preview.png)
+![Dashboard Preview](dashboard/fraud_dashboard_preview.png)
 
 ---
 
